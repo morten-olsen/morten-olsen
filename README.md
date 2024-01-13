@@ -1,6 +1,24 @@
-### Hi there 👋
+![banner](./assets/banner.png)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=morten-olsen)](https://github.com/ryo-ma/github-profile-trophy)
+# Hi, I’m Morten 👋
 
-[![stack overflow](https://stackoverflow.com/users/flair/1689055.png)](https://stackoverflow.com/users/1689055/morten-olsen)
-[![hack the box](https://www.hackthebox.eu/badge/image/174098)](https://app.hackthebox.com/profile/174098)
+## Frontend Developer | DevOps Engineer | Open Source Builder
+
+Welcome to my GitHub space! I’m part of the amazing team at [ZeroNorth](https://www.zeronorth.com/), where we’re coding for a greener maritime industry. When I’m not chasing after my two kids, I’m chasing after bugs and features on the web and beyond.
+
+### 🛠️ What I’m Working With
+
+- Developing fast and modern web solutions with **React**, **Preact**, **Svelte** and **Astro**
+- Creating cross-platform mobile apps using **React Native**
+- Building backends with **fastify**, **apollo**, **nextjs** and **trpc**
+- Managing infrastructure with **Terraform**, **AWS**, **Docker**, **Kubernetes**, **GitHub Actions**, and **Ansible**
+
+### 💡 Current Projects
+- I always have a few personal projects in the works, so feel free to scroll through my repositories
+
+### 📝 Blogging Attempts
+I maintain a blog where I document my journey and share my experiences in tech at [mortenolsen.pro](https://mortenolsen.pro).
+
+### 🤝 Let’s Connect
+- Reach out to me on [LinkedIn](https://www.linkedin.com/in/mortenolsendk)
+- Drop me an email at [fbtijfdq@void.black](mailto:fbtijfdq@void.black)
