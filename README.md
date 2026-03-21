@@ -13,15 +13,9 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/hr-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/hr-light.svg"><img src="./images/hr-dark.svg" alt=""></picture>
 
-<table><tr><td>
-
-I'm **Morten** — a software engineer who's been drifting from .NET to React Native to Kubernetes to whatever shiny thing catches my eye next for the past 15+ years. I also have two kids who are profoundly unimpressed by all of this.
-
-<a href="https://www.zeronorth.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/currently-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/currently-light.svg"><img src="./images/currently-dark.svg" alt="Current role"></picture></a>
+I'm **Morten** — a software engineer who's been drifting from .NET to React Native to Kubernetes to whatever shiny thing catches my eye next for the past 15+ years. Currently on the AI team at [ZeroNorth](https://www.zeronorth.com/), helping the maritime industry decarbonize. I also have two kids who are profoundly unimpressed by all of this.
 
 I write about AI agents, infrastructure, developer tools, and the mistakes I make building all of them at **[mortenolsen.pro](https://mortenolsen.pro)**.
-
-</td></tr></table>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-building-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-building-light.svg"><img src="./images/heading-building-dark.svg" alt="What I&apos;m Building"></picture>
 
