@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(240,240,232,0.06)" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    @keyframes f1 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes f2 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(6px); } }
+    @keyframes f3 { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-5px); } }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.7; } }
+    .f1 { animation: f1 4s ease-in-out infinite; }
+    .f2 { animation: f2 3.5s ease-in-out infinite; }
+    .f3 { animation: f3 5s ease-in-out infinite; }
+    .pulse { animation: pulse 3s ease-in-out infinite; }
+    .display { font-family: 'Arial Black', 'Helvetica Neue', sans-serif; font-weight: 900; }
+    .body { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; }
+    .tag { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 11px; text-transform: uppercase; }
+  </style>
+  <rect width="900" height="300" fill="#1a1a2e"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+
+  <!-- Deco shapes -->
+  <g class="f1"><rect x="30" y="35" width="100" height="100" fill="#ffee00" stroke="#000000" stroke-width="4" transform="rotate(-8 80 85)"/></g>
+  <g class="f2"><rect x="750" y="140" width="70" height="120" fill="#00d4ff" stroke="#000000" stroke-width="4" transform="rotate(6 785 200)"/></g>
+  <g class="f3"><rect x="60" y="190" width="120" height="50" fill="#c8ff00" stroke="#000000" stroke-width="4" transform="rotate(-4 120 215)"/></g>
+  <g class="f2"><polygon points="810,50 819,75 845,75 824,90 832,115 810,100 788,115 796,90 775,75 801,75" fill="#ff5757" transform="rotate(12 810 82)"/></g>
+  <g class="pulse"><circle cx="160" cy="155" r="30" fill="#ff5757" stroke="#000000" stroke-width="4"/></g>
+  <g class="f1"><polygon points="720,45 726,60 742,60 729,70 734,85 720,75 706,85 711,70 698,60 714,60" fill="#e4c1f9"/></g>
+
+  <!-- Name -->
+  <rect x="260" y="60" width="410" height="70" fill="#ffee00" stroke="#000000" stroke-width="4"/>
+  <text x="465" y="108" text-anchor="middle" class="display" fill="#000000" font-size="42">MORTEN OLSEN</text>
+
+  <!-- Title -->
+  <rect x="290" y="145" width="350" height="40" fill="#00d4ff" stroke="#000000" stroke-width="4"/>
+  <text x="465" y="172" text-anchor="middle" class="body" fill="#000000" font-size="18">SOFTWARE ENGINEER</text>
+
+  <!-- Tags -->
+  <g transform="translate(270,205)"><rect width="72" height="26" fill="#ff5757" stroke="#000000" stroke-width="2"/><text x="36" y="17" text-anchor="middle" class="tag" fill="#000000">REACT</text></g>
+  <g transform="translate(352,205)"><rect width="60" height="26" fill="#e4c1f9" stroke="#000000" stroke-width="2"/><text x="30" y="17" text-anchor="middle" class="tag" fill="#000000">RUST</text></g>
+  <g transform="translate(422,205)"><rect width="56" height="26" fill="#ffee00" stroke="#000000" stroke-width="2"/><text x="28" y="17" text-anchor="middle" class="tag" fill="#000000">K8S</text></g>
+  <g transform="translate(488,205)"><rect width="42" height="26" fill="#c8ff00" stroke="#000000" stroke-width="2"/><text x="21" y="17" text-anchor="middle" class="tag" fill="#000000">AI</text></g>
+  <g transform="translate(540,205)"><rect width="90" height="26" fill="#00d4ff" stroke="#000000" stroke-width="2"/><text x="45" y="17" text-anchor="middle" class="tag" fill="#000000">DEVOPS</text></g>
+
+  <!-- Location badge -->
+  <g class="f3" transform="translate(630,75)"><rect width="120" height="30" fill="#e4c1f9" stroke="#000000" stroke-width="3" transform="rotate(8 60 15)"/><text x="60" y="20" text-anchor="middle" class="tag" fill="#000000" font-size="12" transform="rotate(8 60 15)">COPENHAGEN</text></g>
+
+  <!-- Arrow -->
+  <g class="f1" transform="translate(210,130)"><rect width="35" height="35" fill="#c8ff00" stroke="#000000" stroke-width="3" transform="rotate(-10 17 17)"/><text x="17" y="25" text-anchor="middle" fill="#000000" font-size="18" font-weight="bold" transform="rotate(-10 17 17)">→</text></g>
+
+  <rect x="0" y="296" width="900" height="4" fill="#000000"/>
+</svg>
