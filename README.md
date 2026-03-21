@@ -15,9 +15,9 @@
 
 I'm **Morten** — a software engineer who's been drifting from .NET to React Native to Kubernetes to whatever shiny thing catches my eye next for the past 15+ years. I also have two kids who are profoundly unimpressed by all of this.
 
-**Currently:** Senior Software Engineer · AI Team @ [ZeroNorth](https://www.zeronorth.com/)
+<a href="https://www.zeronorth.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/currently-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/currently-light.svg"><img src="./images/currently-dark.svg" alt="Current role"></picture></a>
 
-I write about the things I build and the mistakes I make along the way at **[mortenolsen.pro](https://mortenolsen.pro)**.
+I write about AI agents, infrastructure, developer tools, and the mistakes I make building all of them at **[mortenolsen.pro](https://mortenolsen.pro)**.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-building-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-building-light.svg"><img src="./images/heading-building-dark.svg" alt="What I&apos;m Building"></picture>
 
@@ -44,21 +44,19 @@ I write about the things I build and the mistakes I make along the way at **[mor
 </tr>
 </table>
 
+<a href="https://mortenolsen.pro"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/btn-more-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/btn-more-writing-light.svg"><img src="./images/btn-more-writing-dark.svg" alt="More writing"></picture></a>
+
+<br>
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-tools-light.svg"><img src="./images/heading-tools-dark.svg" alt="Things I Use"></picture>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,python,rust,astro,nodejs,docker,kubernetes,terraform,aws,linux,neovim&theme=dark&perline=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,python,rust,astro,nodejs,docker,kubernetes,terraform,aws,linux,neovim&theme=light&perline=6">
-  <img src="https://skillicons.dev/icons?i=ts,react,python,rust,astro,nodejs,docker,kubernetes,terraform,aws,linux,neovim&theme=dark&perline=6" alt="Tech stack">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/skills-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/skills-light.svg"><img src="./images/skills-dark.svg" alt="Tech stack"></picture>
 
 <br><br>
 
-![ships bugs](https://img.shields.io/badge/ships-bugs-ff5757?style=for-the-badge&labelColor=000000)&nbsp;
-![mass produces](https://img.shields.io/badge/mass%20produces-side%20projects-ffee00?style=for-the-badge&labelColor=000000)&nbsp;
-![works on](https://img.shields.io/badge/works%20on-my%20machine-00d4ff?style=for-the-badge&labelColor=000000)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/badges-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/badges-light.svg"><img src="./images/badges-dark.svg" alt="ships bugs · mass produces side projects · works on my machine"></picture>
 
 </div>
 

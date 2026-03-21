@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417.5" height="38" viewBox="0 0 417.5 38">
+  <!-- SHIPS BUGS -->
+  <rect x="8" y="8" width="81.5" height="28" fill="#000000"/>
+  <rect x="2" y="2" width="43.5" height="28" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <text x="23.75" y="20" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">SHIPS</text>
+  <rect x="45.5" y="2" width="38" height="28" fill="#ff5757" stroke="#000000" stroke-width="2"/>
+  <text x="64.5" y="20" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#000000">BUGS</text>
+  <!-- MASS PRODUCES SIDE PROJECTS -->
+  <rect x="99.5" y="8" width="175" height="28" fill="#000000"/>
+  <rect x="93.5" y="2" width="87.5" height="28" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <text x="137.25" y="20" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">MASS PRODUCES</text>
+  <rect x="181" y="2" width="87.5" height="28" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+  <text x="224.75" y="20" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#000000">SIDE PROJECTS</text>
+  <!-- WORKS ON MY MACHINE -->
+  <rect x="284.5" y="8" width="131" height="28" fill="#000000"/>
+  <rect x="278.5" y="2" width="60" height="28" fill="#000000" stroke="#000000" stroke-width="2"/>
+  <text x="308.5" y="20" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#ffffff">WORKS ON</text>
+  <rect x="338.5" y="2" width="71" height="28" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
+  <text x="374" y="20" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="10" fill="#000000">MY MACHINE</text>
+</svg>
