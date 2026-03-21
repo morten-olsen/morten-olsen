@@ -1,11 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="409" viewBox="0 0 900 409">
-  <defs>
-    <pattern id="g-light" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(0,0,0,0.05)" stroke-width="0.5"/>
-    </pattern>
-  </defs>
-  <rect width="100%" height="100%" fill="#f0f0e8"/>
-  <rect width="100%" height="100%" fill="url(#g-light)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
   <style>
     .display { font-family: 'Arial Black', 'Segoe UI Black', sans-serif; font-weight: 900; }
     .body { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
@@ -14,39 +7,45 @@
   </style>
   
   <!-- Editions -->
-  <rect x="21" y="21" width="868" height="110" fill="#1a1a1a" rx="0"/>
-  <rect x="16" y="16" width="868" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" rx="0"/>
-  <rect x="16" y="16" width="8" height="110" fill="#ffee00" stroke="#1a1a1a" stroke-width="0"/>
-  <rect x="29" y="41" width="102.39999999999999" height="26" fill="#1a1a1a"/>
-  <rect x="24" y="36" width="102.39999999999999" height="26" fill="#ffee00" stroke="#000000" stroke-width="2"/>
-  <text x="75.19999999999999" y="54" text-anchor="middle" class="display upper" fill="#000000" font-size="14">EDITIONS</text>
-  <rect x="136.39999999999998" y="38" width="43.5" height="20" fill="#ffee00" stroke="#000000" stroke-width="2"/>
-    <text x="158.14999999999998" y="52" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="9">ALPHA</text>
-  <text x="36" y="78" class="body" fill="#6b6b6b" font-size="12">A self-hosted news reader that assembles RSS feeds into finite, curated magazines</text>
-  <text x="36" y="95" class="body" fill="#6b6b6b" font-size="12">using on-device ML for article classification.</text>
-  <text x="36" y="110" class="body-bold" fill="#6b6b6b" font-size="10" letter-spacing="0.5">TypeScript  ·  React  ·  Vite  ·  Tailwind CSS  ·  Fastify  ·  SQLite  ·  Transformers.js</text>
+  <g transform="rotate(-0.4 450 70)">
+  <rect x="6" y="16" width="900" height="120" fill="#000000"/>
+  <rect x="0" y="10" width="900" height="120" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Name badge with shadow -->
+  <rect x="23" y="33" width="105.60000000000001" height="28" fill="#000000"/>
+  <rect x="20" y="30" width="105.60000000000001" height="28" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+  <text x="72.80000000000001" y="49" text-anchor="middle" class="display upper" fill="#000000" font-size="15">EDITIONS</text>
+  <rect x="143.60000000000002" y="31" width="43.5" height="24" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+    <text x="165.35000000000002" y="47" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">ALPHA</text>
+  <text x="20" y="78" class="body" fill="#555555" font-size="13">A self-hosted news reader that assembles RSS feeds into finite, curated magazines using</text>
+  <text x="20" y="95" class="body" fill="#555555" font-size="13">on-device ML for article classification.</text>
+  <text x="20" y="116" class="body-bold" fill="#555555" font-size="11" letter-spacing="0.3">TypeScript  ·  React  ·  Vite  ·  Tailwind CSS  ·  Fastify  ·  SQLite  ·  Transformers.js</text>
+  </g>
   <!-- Grimoire -->
-  <rect x="21" y="152" width="868" height="110" fill="#1a1a1a" rx="0"/>
-  <rect x="16" y="147" width="868" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" rx="0"/>
-  <rect x="16" y="147" width="8" height="110" fill="#00d4ff" stroke="#1a1a1a" stroke-width="0"/>
-  <rect x="29" y="172" width="102.39999999999999" height="26" fill="#1a1a1a"/>
-  <rect x="24" y="167" width="102.39999999999999" height="26" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
-  <text x="75.19999999999999" y="185" text-anchor="middle" class="display upper" fill="#000000" font-size="14">GRIMOIRE</text>
-  <rect x="136.39999999999998" y="169" width="49" height="20" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
-    <text x="160.89999999999998" y="183" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="9">ACTIVE</text>
-  <text x="36" y="209" class="body" fill="#6b6b6b" font-size="12">A Bitwarden-compatible CLI, SSH agent, and daemon for Vaultwarden — built for</text>
-  <text x="36" y="226" class="body" fill="#6b6b6b" font-size="12">engineers who want their secrets served from memory, not files on disk.</text>
-  <text x="36" y="241" class="body-bold" fill="#6b6b6b" font-size="10" letter-spacing="0.5">Rust  ·  X25519  ·  ChaCha20-Poly1305  ·  Swift  ·  GTK4</text>
+  <g transform="rotate(0.6 450 212)">
+  <rect x="6" y="158" width="900" height="120" fill="#000000"/>
+  <rect x="0" y="152" width="900" height="120" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Name badge with shadow -->
+  <rect x="23" y="175" width="105.60000000000001" height="28" fill="#000000"/>
+  <rect x="20" y="172" width="105.60000000000001" height="28" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
+  <text x="72.80000000000001" y="191" text-anchor="middle" class="display upper" fill="#000000" font-size="15">GRIMOIRE</text>
+  <rect x="143.60000000000002" y="173" width="49" height="24" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
+    <text x="168.10000000000002" y="189" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">ACTIVE</text>
+  <text x="20" y="220" class="body" fill="#555555" font-size="13">A Bitwarden-compatible CLI, SSH agent, and daemon for Vaultwarden — built for engineers</text>
+  <text x="20" y="237" class="body" fill="#555555" font-size="13">who want their secrets served from memory, not files on disk.</text>
+  <text x="20" y="258" class="body-bold" fill="#555555" font-size="11" letter-spacing="0.3">Rust  ·  X25519  ·  ChaCha20-Poly1305  ·  Swift  ·  GTK4</text>
+  </g>
   <!-- Homelab Core -->
-  <rect x="21" y="283" width="868" height="110" fill="#1a1a1a" rx="0"/>
-  <rect x="16" y="278" width="868" height="110" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" rx="0"/>
-  <rect x="16" y="278" width="8" height="110" fill="#c8ff00" stroke="#1a1a1a" stroke-width="0"/>
-  <rect x="29" y="303" width="141.6" height="26" fill="#1a1a1a"/>
-  <rect x="24" y="298" width="141.6" height="26" fill="#c8ff00" stroke="#000000" stroke-width="2"/>
-  <text x="94.8" y="316" text-anchor="middle" class="display upper" fill="#000000" font-size="14">HOMELAB CORE</text>
-  <rect x="175.6" y="300" width="49" height="20" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
-    <text x="200.1" y="314" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="9">ACTIVE</text>
-  <text x="36" y="340" class="body" fill="#6b6b6b" font-size="12">A Kubernetes-based homelab infrastructure stack using Helm charts and ArgoCD for</text>
-  <text x="36" y="357" class="body" fill="#6b6b6b" font-size="12">GitOps-driven home server management.</text>
-  <text x="36" y="372" class="body-bold" fill="#6b6b6b" font-size="10" letter-spacing="0.5">Kubernetes  ·  Helm  ·  ArgoCD  ·  Terraform  ·  Istio  ·  Prometheus  ·  Grafana</text>
+  <g transform="rotate(-0.3 450 354)">
+  <rect x="6" y="300" width="900" height="120" fill="#000000"/>
+  <rect x="0" y="294" width="900" height="120" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+  <!-- Name badge with shadow -->
+  <rect x="23" y="317" width="146.4" height="28" fill="#000000"/>
+  <rect x="20" y="314" width="146.4" height="28" fill="#c8ff00" stroke="#000000" stroke-width="2"/>
+  <text x="93.2" y="333" text-anchor="middle" class="display upper" fill="#000000" font-size="15">HOMELAB CORE</text>
+  <rect x="184.4" y="315" width="49" height="24" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
+    <text x="208.9" y="331" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">ACTIVE</text>
+  <text x="20" y="362" class="body" fill="#555555" font-size="13">A Kubernetes-based homelab infrastructure stack using Helm charts and ArgoCD for</text>
+  <text x="20" y="379" class="body" fill="#555555" font-size="13">GitOps-driven home server management.</text>
+  <text x="20" y="400" class="body-bold" fill="#555555" font-size="11" letter-spacing="0.3">Kubernetes  ·  Helm  ·  ArgoCD  ·  Terraform  ·  Istio  ·  Prometheus  ·  Grafana</text>
+  </g>
 </svg>

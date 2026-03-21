@@ -1,52 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
-  <defs>
-    <pattern id="g-dark" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="rgba(240,240,232,0.04)" stroke-width="0.5"/>
-    </pattern>
-  </defs>
-  <rect width="100%" height="100%" fill="#0f0f1a"/>
-  <rect width="100%" height="100%" fill="url(#g-dark)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
   <style>
     .display { font-family: 'Arial Black', 'Segoe UI Black', sans-serif; font-weight: 900; }
     .body { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
     .body-bold { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; }
     .upper { text-transform: uppercase; }
   </style>
+  <style>
+    /* Entrance animations matching the website hero */
+    @keyframes wipeReveal {
+      from { clip-path: inset(0 100% 0 0); opacity: 0; }
+      to { clip-path: inset(0 0 0 0); opacity: 1; }
+    }
+    @keyframes slideUp {
+      from { opacity: 0; transform: translateY(20px); }
+      60% { opacity: 1; transform: translateY(-3px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .anim-name { animation: slideUp 0.4s ease-out 0.2s both; }
+    .anim-sw { animation: wipeReveal 0.5s ease-out 0.35s both; }
+    .anim-eng { animation: wipeReveal 0.5s ease-out 0.55s both; }
+    .anim-tag { animation: slideUp 0.5s ease-out 0.7s both; }
+  </style>
 
-  <!-- Accent blocks — intentional, balanced composition -->
-  <rect x="770" y="20" width="100" height="100" fill="#ffee00" stroke="#000000" stroke-width="3" transform="rotate(-6 820 70)" opacity="0.9"/>
-  <rect x="30" y="140" width="80" height="50" fill="#00d4ff" stroke="#000000" stroke-width="3" transform="rotate(4 70 165)" opacity="0.9"/>
-  <rect x="810" y="155" width="55" height="55" fill="#c8ff00" stroke="#000000" stroke-width="3" transform="rotate(-3 838 182)" opacity="0.85"/>
-  <polygon points="60,30 68,50 90,50 73,62 79,82 60,72 41,82 47,62 30,50 52,50" fill="#ff5757" opacity="0.9"/>
+  <!-- Name label — small, like the hero-name on the site -->
+  <g class="anim-name" transform="translate(350, 15)">
+    <rect x="3" y="3" width="200" height="30" fill="rgba(0,0,0,0.6)"/>
+    <rect width="200" height="30" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+    <text x="100" y="21" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="12" letter-spacing="2">MORTEN OLSEN</text>
+  </g>
 
-  <!-- Name plate -->
-  <rect x="225" y="35" width="460" height="62" fill="rgba(0,0,0,0.5)"/>
-  <rect x="220" y="30" width="460" height="62" fill="#ffee00" stroke="#000000" stroke-width="3"/>
-  <text x="450" y="70" text-anchor="middle" class="display upper" fill="#000000" font-size="38">MORTEN OLSEN</text>
+  <!-- SOFTWARE block — rotated -2deg like hero -->
+  <g class="anim-sw" transform="rotate(-2 450 75)">
+    <rect x="266" y="61" width="380" height="60" fill="rgba(0,0,0,0.6)"/>
+    <rect x="260" y="55" width="380" height="60" fill="#ffee00" stroke="#000000" stroke-width="4"/>
+    <text x="450" y="95" text-anchor="middle" class="display upper" fill="#000000" font-size="46">SOFTWARE</text>
+  </g>
 
-  <!-- Role plate -->
-  <rect x="285" y="110" width="340" height="34" fill="rgba(0,0,0,0.5)"/>
-  <rect x="280" y="105" width="340" height="34" fill="#00d4ff" stroke="#000000" stroke-width="3"/>
-  <text x="450" y="128" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="13">SENIOR SOFTWARE ENGINEER · AI TEAM @ ZERONORTH</text>
+  <!-- ENGINEER block — rotated 1deg like hero -->
+  <g class="anim-eng" transform="rotate(1 450 135)">
+    <rect x="286" y="126" width="340" height="50" fill="rgba(0,0,0,0.6)"/>
+    <rect x="280" y="120" width="340" height="50" fill="#00d4ff" stroke="#000000" stroke-width="4"/>
+    <text x="450" y="153" text-anchor="middle" class="display upper" fill="#000000" font-size="38">ENGINEER</text>
+  </g>
 
-  <!-- Tech tags -->
-  <rect x="254" y="155" width="75" height="24" fill="#ff5757" stroke="#000000" stroke-width="2"/>
-  <text x="291.5" y="171" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">TYPESCRIPT</text>
-  <rect x="337" y="155" width="60" height="24" fill="#e4c1f9" stroke="#000000" stroke-width="2"/>
-  <text x="367" y="171" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">REACT</text>
-  <rect x="405" y="155" width="55" height="24" fill="#ffee00" stroke="#000000" stroke-width="2"/>
-  <text x="432.5" y="171" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">RUST</text>
-  <rect x="468" y="155" width="50" height="24" fill="#c8ff00" stroke="#000000" stroke-width="2"/>
-  <text x="493" y="171" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">K8S</text>
-  <rect x="526" y="155" width="40" height="24" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
-  <text x="546" y="171" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">AI</text>
-  <rect x="574" y="155" width="72" height="24" fill="#ff5757" stroke="#000000" stroke-width="2"/>
-  <text x="610" y="171" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10">DEVOPS</text>
-
-  <!-- Location pill -->
-  <rect x="130" y="32" width="95" height="24" fill="#e4c1f9" stroke="#000000" stroke-width="2" transform="rotate(-3 177 44)"/>
-  <text x="177" y="49" text-anchor="middle" class="body-bold upper" fill="#000000" font-size="10" transform="rotate(-3 177 44)">COPENHAGEN</text>
-
-  <!-- Bottom border -->
-  <rect x="0" y="217" width="900" height="3" fill="#f0f0e8"/>
+  <!-- Tagline — like hero-desc with lavender bg -->
+  <g class="anim-tag" transform="translate(230, 182)">
+    <rect x="3" y="3" width="440" height="32" fill="rgba(0,0,0,0.6)"/>
+    <rect width="440" height="32" fill="#e4c1f9" stroke="#000000" stroke-width="2"/>
+    <text x="220" y="22" text-anchor="middle" class="body-bold" fill="#000000" font-size="13">I make computers do questionable things.</text>
+  </g>
 </svg>

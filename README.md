@@ -25,8 +25,6 @@ I write about the things I build and the mistakes I make along the way at **[mor
 
 ## ⚡ What I'm Building
 
-<div align="center">
-
 <a href="https://mortenolsen.pro/projects/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/projects-dark.svg">
@@ -35,11 +33,7 @@ I write about the things I build and the mistakes I make along the way at **[mor
 </picture>
 </a>
 
-</div>
-
 ## ✏️ Recent Writing
-
-<div align="center">
 
 <a href="https://mortenolsen.pro">
 <picture>
@@ -48,8 +42,6 @@ I write about the things I build and the mistakes I make along the way at **[mor
   <img src="./images/posts-dark.svg" alt="Recent blog posts">
 </picture>
 </a>
-
-</div>
 
 ## 🛠️ Things I Use
 
