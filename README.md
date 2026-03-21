@@ -19,7 +19,7 @@ I'm **Morten** — a software engineer who's been drifting from .NET to React Na
 
 I write about the things I build and the mistakes I make along the way at **[mortenolsen.pro](https://mortenolsen.pro)**.
 
-## ⚡ What I'm Building
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-building-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-building-light.svg"><img src="./images/heading-building-dark.svg" alt="What I&apos;m Building"></picture>
 
 <table>
 <tr valign="top">
@@ -31,7 +31,7 @@ I write about the things I build and the mistakes I make along the way at **[mor
 </tr>
 </table>
 
-## ✏️ Recent Writing
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-writing-light.svg"><img src="./images/heading-writing-dark.svg" alt="Recent Writing"></picture>
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ I write about the things I build and the mistakes I make along the way at **[mor
 </tr>
 </table>
 
-## 🛠️ Things I Use
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-tools-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-tools-light.svg"><img src="./images/heading-tools-dark.svg" alt="Things I Use"></picture>
 
 <div align="center">
 
