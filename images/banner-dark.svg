@@ -1,25 +1,38 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230">
+  <style>
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes wipeIn { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+    .a1 { animation: fadeIn 0.4s ease-out 0.2s both; }
+    .a2 { animation: wipeIn 0.5s ease-out 0.4s both; }
+    .a3 { animation: wipeIn 0.5s ease-out 0.6s both; }
+    .a4 { animation: fadeIn 0.5s ease-out 0.8s both; }
+  </style>
+
   <!-- Name label -->
-  <rect x="353" y="18" width="200" height="30" fill="rgba(0,0,0,0.6)"/>
-  <rect x="350" y="15" width="200" height="30" fill="#ffee00" stroke="#000000" stroke-width="2"/>
-  <text x="450" y="36" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#000000" letter-spacing="2" text-transform="uppercase">MORTEN OLSEN</text>
+  <g class="a1">
+    <rect x="353" y="18" width="200" height="30" fill="rgba(0,0,0,0.6)"/>
+    <rect x="350" y="15" width="200" height="30" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+    <text x="450" y="36" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="12" fill="#000000" letter-spacing="2">MORTEN OLSEN</text>
+  </g>
 
   <!-- SOFTWARE — rotated -2deg -->
-  <g transform="rotate(-2 450 85)">
+  <g class="a2" transform="rotate(-2 450 85)">
     <rect x="266" y="61" width="380" height="60" fill="rgba(0,0,0,0.6)"/>
     <rect x="260" y="55" width="380" height="60" fill="#ffee00" stroke="#000000" stroke-width="4"/>
     <text x="450" y="95" text-anchor="middle" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="46" fill="#000000">SOFTWARE</text>
   </g>
 
   <!-- ENGINEER — rotated 1deg -->
-  <g transform="rotate(1 450 145)">
+  <g class="a3" transform="rotate(1 450 145)">
     <rect x="286" y="126" width="340" height="50" fill="rgba(0,0,0,0.6)"/>
     <rect x="280" y="120" width="340" height="50" fill="#00d4ff" stroke="#000000" stroke-width="4"/>
     <text x="450" y="153" text-anchor="middle" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="38" fill="#000000">ENGINEER</text>
   </g>
 
   <!-- Tagline -->
-  <rect x="233" y="188" width="440" height="32" fill="rgba(0,0,0,0.6)"/>
-  <rect x="230" y="185" width="440" height="32" fill="#e4c1f9" stroke="#000000" stroke-width="2"/>
-  <text x="450" y="206" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#000000">I make computers do questionable things.</text>
+  <g class="a4">
+    <rect x="233" y="188" width="440" height="32" fill="rgba(0,0,0,0.6)"/>
+    <rect x="230" y="185" width="440" height="32" fill="#e4c1f9" stroke="#000000" stroke-width="2"/>
+    <text x="450" y="206" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="13" fill="#000000">I make computers do questionable things.</text>
+  </g>
 </svg>
