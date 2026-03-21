@@ -1,11 +1,7 @@
 <div align="center">
 
 <a href="https://mortenolsen.pro">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/banner-light.svg">
-  <img src="./images/banner-dark.svg" alt="Morten Olsen — Software Engineer" width="900">
-</picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/banner-light.svg"><img src="./images/banner-dark.svg" alt="Morten Olsen — Software Engineer"></picture>
 </a>
 
 <br>
@@ -25,23 +21,28 @@ I write about the things I build and the mistakes I make along the way at **[mor
 
 ## ⚡ What I'm Building
 
-<a href="https://mortenolsen.pro/projects/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/projects-light.svg">
-  <img src="./images/projects-dark.svg" alt="Open source projects">
-</picture>
-</a>
+<table>
+<tr valign="top">
+<td width="50%"><a href="https://github.com/morten-olsen/editions"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/project-editions-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/project-editions-light.svg"><img src="./images/project-editions-dark.svg" alt="Editions"></picture></a></td>
+<td width="50%"><a href="https://github.com/morten-olsen/grimoire"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/project-grimoire-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/project-grimoire-light.svg"><img src="./images/project-grimoire-dark.svg" alt="Grimoire"></picture></a></td>
+</tr>
+<tr valign="top">
+<td width="50%"><a href="https://github.com/morten-olsen/homelab-core"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/project-homelab-core-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/project-homelab-core-light.svg"><img src="./images/project-homelab-core-dark.svg" alt="Homelab Core"></picture></a></td>
+</tr>
+</table>
 
 ## ✏️ Recent Writing
 
-<a href="https://mortenolsen.pro">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/posts-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./images/posts-light.svg">
-  <img src="./images/posts-dark.svg" alt="Recent blog posts">
-</picture>
-</a>
+<table>
+<tr>
+<td width="50%"><a href="https://mortenolsen.pro/posts/llm-maintainable-code/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/post-llm-maintainable-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/post-llm-maintainable-code-light.svg"><img src="./images/post-llm-maintainable-code-dark.svg" alt="Why AI Hates Your Abstractions"></picture></a></td>
+<td width="50%"><a href="https://mortenolsen.pro/posts/reinventing-the-link-from-seo-bait-to-semantic-trust/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/post-reinventing-the-link-from-seo-bait-to-semantic-trust-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/post-reinventing-the-link-from-seo-bait-to-semantic-trust-light.svg"><img src="./images/post-reinventing-the-link-from-seo-bait-to-semantic-trust-dark.svg" alt="Reinventing the Link: From SEO Bait to Semantic Trust"></picture></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://mortenolsen.pro/posts/grown-ups-guide-personal-ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/post-grown-ups-guide-personal-ai-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/post-grown-ups-guide-personal-ai-light.svg"><img src="./images/post-grown-ups-guide-personal-ai-dark.svg" alt="The Grown-Up&apos;s Guide to Personal AI Agents"></picture></a></td>
+<td width="50%"><a href="https://mortenolsen.pro/posts/i-gave-an-ai-root-access-to-my-kubernetes-cluster/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/post-ai-devops-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/post-ai-devops-light.svg"><img src="./images/post-ai-devops-dark.svg" alt="I gave an AI Root access to my Kubernetes Cluster"></picture></a></td>
+</tr>
+</table>
 
 ## 🛠️ Things I Use
 
