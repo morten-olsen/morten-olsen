@@ -61,6 +61,16 @@ An AI-powered system management daemon that uses Nix for safe, auditable, and ro
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-writing-light.svg"><img src="./images/heading-writing-dark.svg" alt="Recent Writing"></picture>
 
+<a href="https://mortenolsen.pro/posts/the-agentic-hangover/"><img src="./images/post-the-agentic-hangover.webp" alt="The Agentic Hangover: What We Broke, What We Build Next" width="320" align="left"></a>
+
+<a href="https://mortenolsen.pro/posts/the-agentic-hangover/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-the-agentic-hangover-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-the-agentic-hangover-light.svg"><img src="./images/name-the-agentic-hangover-dark.svg" alt="The Agentic Hangover: What We Broke, What We Build Next"></picture></a>
+
+I build agentic AI platforms for a living and tinker with them for fun. The green grass is real — but getting there required breaking a lot of things first. Here is what went wrong, what we are losing, and why I think you can put the doom articles down.
+
+<br clear="both">
+
+<br>
+
 <a href="https://mortenolsen.pro/posts/llm-maintainable-code/"><img src="./images/post-llm-maintainable-code.webp" alt="Why AI Hates Your Abstractions" width="320" align="left"></a>
 
 <a href="https://mortenolsen.pro/posts/llm-maintainable-code/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-llm-maintainable-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-llm-maintainable-code-light.svg"><img src="./images/name-llm-maintainable-code-dark.svg" alt="Why AI Hates Your Abstractions"></picture></a>
@@ -86,16 +96,6 @@ I accidentally reinvented PageRank, realized why it’s broken today, and decide
 <a href="https://mortenolsen.pro/posts/grown-ups-guide-personal-ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-grown-ups-guide-personal-ai-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-grown-ups-guide-personal-ai-light.svg"><img src="./images/name-grown-ups-guide-personal-ai-dark.svg" alt="The Grown-Up&apos;s Guide to Personal AI Agents"></picture></a>
 
 Handing the keys to your digital life to an AI is like juggling chainsaws. I built a persistent assistant that knows me, but without the ability to blow my savings at a robot casino.
-
-<br clear="both">
-
-<br>
-
-<a href="https://mortenolsen.pro/posts/i-gave-an-ai-root-access-to-my-kubernetes-cluster/"><img src="./images/post-ai-devops.webp" alt="I gave an AI Root access to my Kubernetes Cluster" width="320" align="left"></a>
-
-<a href="https://mortenolsen.pro/posts/i-gave-an-ai-root-access-to-my-kubernetes-cluster/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-ai-devops-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-ai-devops-light.svg"><img src="./images/name-ai-devops-dark.svg" alt="I gave an AI Root access to my Kubernetes Cluster"></picture></a>
-
-I gave an AI root access to my Kubernetes cluster. It fixed a BIOS issue I didn’t know I had. I am still terrified.
 
 <br clear="both">
 
