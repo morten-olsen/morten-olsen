@@ -27,6 +27,14 @@ A self-hosted news reader that assembles RSS feeds into finite, curated magazine
 
 <br>
 
+<a href="https://github.com/morten-olsen/fermata"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-fermata-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-fermata-light.svg"><img src="./images/name-fermata-dark.svg" alt="Fermata"></picture></a>
+
+A calm, offline-first media player for music, podcasts, and audiobooks — backed by Jellyfin and Audiobookshelf with no ads, accounts, or tracking.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/tags-fermata-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/tags-fermata-light.svg"><img src="./images/tags-fermata-dark.svg" alt="TypeScript, Expo, React Native, NativeWind, SQLite, Storybook"></picture>
+
+<br>
+
 <a href="https://github.com/morten-olsen/grimoire"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-grimoire-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-grimoire-light.svg"><img src="./images/name-grimoire-dark.svg" alt="Grimoire"></picture></a>
 
 A Bitwarden-compatible CLI, SSH agent, and daemon for Vaultwarden — built for engineers who want their secrets served from memory, not files on disk.
@@ -40,6 +48,14 @@ A Bitwarden-compatible CLI, SSH agent, and daemon for Vaultwarden — built for 
 A Kubernetes-based homelab infrastructure stack using Helm charts and ArgoCD for GitOps-driven home server management.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/tags-homelab-core-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/tags-homelab-core-light.svg"><img src="./images/tags-homelab-core-dark.svg" alt="Kubernetes, Helm, ArgoCD, Terraform, Istio, Prometheus, Grafana, cert-manager"></picture>
+
+<br>
+
+<a href="https://github.com/morten-olsen/lares"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-lares-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-lares-light.svg"><img src="./images/name-lares-dark.svg" alt="Lares"></picture></a>
+
+An AI-powered system management daemon that uses Nix for safe, auditable, and rollback-friendly OS automation.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./images/tags-lares-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/tags-lares-light.svg"><img src="./images/tags-lares-dark.svg" alt="Rust, Nix"></picture>
 
 <br>
 
