@@ -61,9 +61,9 @@ An AI-powered system management daemon that uses Nix for safe, auditable, and ro
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-writing-light.svg"><img src="./images/heading-writing-dark.svg" alt="Recent Writing"></picture>
 
-<a href="https://mortenolsen.pro/posts/the-agentic-hangover/"><img src="./images/post-the-agentic-hangover.webp" alt="The Agentic Hangover: What We Broke, What We Build Next" width="320" align="left"></a>
+<a href="https://mortenolsen.pro/posts/the-dev-is-dead-long-live-the-dev/"><img src="./images/post-the-dev-is-dead-long-live-the-dev.webp" alt="The Dev Is Dead, Long Live the Dev" width="320" align="left"></a>
 
-<a href="https://mortenolsen.pro/posts/the-agentic-hangover/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-the-agentic-hangover-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-the-agentic-hangover-light.svg"><img src="./images/name-the-agentic-hangover-dark.svg" alt="The Agentic Hangover: What We Broke, What We Build Next"></picture></a>
+<a href="https://mortenolsen.pro/posts/the-dev-is-dead-long-live-the-dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-the-dev-is-dead-long-live-the-dev-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-the-dev-is-dead-long-live-the-dev-light.svg"><img src="./images/name-the-dev-is-dead-long-live-the-dev-dark.svg" alt="The Dev Is Dead, Long Live the Dev"></picture></a>
 
 I build agentic AI platforms for a living and tinker with them for fun. The green grass is real — but getting there required breaking a lot of things first. Here is what went wrong, what we are losing, and why I think you can put the doom articles down.
 
