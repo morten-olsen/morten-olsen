@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="377.20000000000005" height="82" viewBox="0 0 377.20000000000005 82">
-  <g transform="rotate(-1.2 188.60000000000002 41)">
+  <g transform="rotate(0.9 188.60000000000002 41)">
     <rect x="9" y="9" width="293.20000000000005" height="60" fill="#000000"/>
-    <rect x="6" y="6" width="293.20000000000005" height="60" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+    <rect x="6" y="6" width="293.20000000000005" height="60" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
     <text x="20" y="31" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">THE DEV IS DEAD, LONG LIVE</text>
     <text x="20" y="53" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">THE DEV</text>
     <rect x="305.20000000000005" y="24" width="60" height="24" fill="#ffffff" stroke="#000000" stroke-width="2"/>

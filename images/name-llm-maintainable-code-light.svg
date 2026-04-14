@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="285.4" height="82" viewBox="0 0 285.4 82">
-  <g transform="rotate(0.9 142.7 41)">
+  <g transform="rotate(-0.7 142.7 41)">
     <rect x="9" y="9" width="201.4" height="60" fill="#000000"/>
-    <rect x="6" y="6" width="201.4" height="60" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
+    <rect x="6" y="6" width="201.4" height="60" fill="#c8ff00" stroke="#000000" stroke-width="2"/>
     <text x="20" y="31" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">WHY AI HATES YOUR</text>
     <text x="20" y="53" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">ABSTRACTIONS</text>
     <rect x="213.4" y="24" width="60" height="24" fill="#ffffff" stroke="#000000" stroke-width="2"/>

@@ -61,6 +61,16 @@ An AI-powered system management daemon that uses Nix for safe, auditable, and ro
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-writing-light.svg"><img src="./images/heading-writing-dark.svg" alt="Recent Writing"></picture>
 
+<a href="https://mortenolsen.pro/posts/the-trillion-dollar-while-loop/"><img src="./images/post-a-mini-agent.webp" alt="The Trillion-Dollar While Loop" width="320" align="left"></a>
+
+<a href="https://mortenolsen.pro/posts/the-trillion-dollar-while-loop/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-a-mini-agent-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-a-mini-agent-light.svg"><img src="./images/name-a-mini-agent-dark.svg" alt="The Trillion-Dollar While Loop"></picture></a>
+
+The entire AI agent industry is built on thirty lines of Python. Let me ruin the word 'agent' for you.
+
+<br clear="both">
+
+<br>
+
 <a href="https://mortenolsen.pro/posts/the-dev-is-dead-long-live-the-dev/"><img src="./images/post-the-dev-is-dead-long-live-the-dev.webp" alt="The Dev Is Dead, Long Live the Dev" width="320" align="left"></a>
 
 <a href="https://mortenolsen.pro/posts/the-dev-is-dead-long-live-the-dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-the-dev-is-dead-long-live-the-dev-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-the-dev-is-dead-long-live-the-dev-light.svg"><img src="./images/name-the-dev-is-dead-long-live-the-dev-dark.svg" alt="The Dev Is Dead, Long Live the Dev"></picture></a>
@@ -86,16 +96,6 @@ I refactored my personal AI to be "more maintainable" for humans, only to find o
 <a href="https://mortenolsen.pro/posts/reinventing-the-link-from-seo-bait-to-semantic-trust/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-reinventing-the-link-from-seo-bait-to-semantic-trust-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-reinventing-the-link-from-seo-bait-to-semantic-trust-light.svg"><img src="./images/name-reinventing-the-link-from-seo-bait-to-semantic-trust-dark.svg" alt="Reinventing the Link: From SEO Bait to Semantic Trust"></picture></a>
 
 I accidentally reinvented PageRank, realized why it’s broken today, and decided to try building a personal web of trust instead.
-
-<br clear="both">
-
-<br>
-
-<a href="https://mortenolsen.pro/posts/grown-ups-guide-personal-ai/"><img src="./images/post-grown-ups-guide-personal-ai.webp" alt="The Grown-Up&apos;s Guide to Personal AI Agents" width="320" align="left"></a>
-
-<a href="https://mortenolsen.pro/posts/grown-ups-guide-personal-ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-grown-ups-guide-personal-ai-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-grown-ups-guide-personal-ai-light.svg"><img src="./images/name-grown-ups-guide-personal-ai-dark.svg" alt="The Grown-Up&apos;s Guide to Personal AI Agents"></picture></a>
-
-Handing the keys to your digital life to an AI is like juggling chainsaws. I built a persistent assistant that knows me, but without the ability to blow my savings at a robot casino.
 
 <br clear="both">
 
