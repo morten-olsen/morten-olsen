@@ -61,6 +61,16 @@ An AI-powered system management daemon that uses Nix for safe, auditable, and ro
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-writing-light.svg"><img src="./images/heading-writing-dark.svg" alt="Recent Writing"></picture>
 
+<a href="https://mortenolsen.pro/posts/does-your-tone-change-your-code/"><img src="./images/post-does-your-tone-change-your-code.webp" alt="I Cracked Open an LLM&apos;s Skull and Found It Cares About Manners" width="320" align="left"></a>
+
+<a href="https://mortenolsen.pro/posts/does-your-tone-change-your-code/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-does-your-tone-change-your-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-does-your-tone-change-your-code-light.svg"><img src="./images/name-does-your-tone-change-your-code-dark.svg" alt="I Cracked Open an LLM&apos;s Skull and Found It Cares About Manners"></picture></a>
+
+I fed the same coding prompts through open LLMs in different tones of voice and looked at the model's internal representations. Turns out it cares more about how you ask than what you ask.
+
+<br clear="both">
+
+<br>
+
 <a href="https://mortenolsen.pro/posts/the-trillion-dollar-while-loop/"><img src="./images/post-a-mini-agent.webp" alt="The Trillion-Dollar While Loop" width="320" align="left"></a>
 
 <a href="https://mortenolsen.pro/posts/the-trillion-dollar-while-loop/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-a-mini-agent-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-a-mini-agent-light.svg"><img src="./images/name-a-mini-agent-dark.svg" alt="The Trillion-Dollar While Loop"></picture></a>
@@ -86,16 +96,6 @@ I build agentic AI platforms for a living and tinker with them for fun. The gree
 <a href="https://mortenolsen.pro/posts/llm-maintainable-code/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-llm-maintainable-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-llm-maintainable-code-light.svg"><img src="./images/name-llm-maintainable-code-dark.svg" alt="Why AI Hates Your Abstractions"></picture></a>
 
 I refactored my personal AI to be "more maintainable" for humans, only to find out I might have broken its brain. Is what we call good code actually just noise to an LLM?
-
-<br clear="both">
-
-<br>
-
-<a href="https://mortenolsen.pro/posts/reinventing-the-link-from-seo-bait-to-semantic-trust/"><img src="./images/post-reinventing-the-link-from-seo-bait-to-semantic-trust.webp" alt="Reinventing the Link: From SEO Bait to Semantic Trust" width="320" align="left"></a>
-
-<a href="https://mortenolsen.pro/posts/reinventing-the-link-from-seo-bait-to-semantic-trust/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-reinventing-the-link-from-seo-bait-to-semantic-trust-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-reinventing-the-link-from-seo-bait-to-semantic-trust-light.svg"><img src="./images/name-reinventing-the-link-from-seo-bait-to-semantic-trust-dark.svg" alt="Reinventing the Link: From SEO Bait to Semantic Trust"></picture></a>
-
-I accidentally reinvented PageRank, realized why it’s broken today, and decided to try building a personal web of trust instead.
 
 <br clear="both">
 
