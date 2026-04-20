@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="356.8" height="104" viewBox="0 0 356.8 104">
-  <g transform="rotate(-1.2 178.4 52)">
+  <g transform="rotate(0.9 178.4 52)">
     <rect x="9" y="9" width="272.8" height="82" fill="rgba(0,0,0,0.6)"/>
-    <rect x="6" y="6" width="272.8" height="82" fill="#ffee00" stroke="#000000" stroke-width="2"/>
+    <rect x="6" y="6" width="272.8" height="82" fill="#00d4ff" stroke="#000000" stroke-width="2"/>
     <text x="20" y="31" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">I CRACKED OPEN AN LLM&apos;S</text>
     <text x="20" y="53" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">SKULL AND FOUND IT CARES</text>
     <text x="20" y="75" font-family="'Arial Black','Segoe UI Black',sans-serif" font-weight="900" font-size="15" fill="#000000">ABOUT MANNERS</text>

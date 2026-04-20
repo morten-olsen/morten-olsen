@@ -61,6 +61,16 @@ An AI-powered system management daemon that uses Nix for safe, auditable, and ro
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./images/heading-writing-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/heading-writing-light.svg"><img src="./images/heading-writing-dark.svg" alt="Recent Writing"></picture>
 
+<a href="https://mortenolsen.pro/posts/the-elephant-in-the-context-window/"><img src="./images/post-the-elephant-in-the-context-window.webp" alt="The Elephant in the Context Window" width="320" align="left"></a>
+
+<a href="https://mortenolsen.pro/posts/the-elephant-in-the-context-window/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-the-elephant-in-the-context-window-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-the-elephant-in-the-context-window-light.svg"><img src="./images/name-the-elephant-in-the-context-window-dark.svg" alt="The Elephant in the Context Window"></picture></a>
+
+I told an LLM 'don't use var' and then watched it use var. So I built four experiments to find out why. I was wrong every time. The answer was better than anything I'd predicted.
+
+<br clear="both">
+
+<br>
+
 <a href="https://mortenolsen.pro/posts/does-your-tone-change-your-code/"><img src="./images/post-does-your-tone-change-your-code.webp" alt="I Cracked Open an LLM&apos;s Skull and Found It Cares About Manners" width="320" align="left"></a>
 
 <a href="https://mortenolsen.pro/posts/does-your-tone-change-your-code/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-does-your-tone-change-your-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-does-your-tone-change-your-code-light.svg"><img src="./images/name-does-your-tone-change-your-code-dark.svg" alt="I Cracked Open an LLM&apos;s Skull and Found It Cares About Manners"></picture></a>
@@ -86,16 +96,6 @@ The entire AI agent industry is built on thirty lines of Python. Let me ruin the
 <a href="https://mortenolsen.pro/posts/the-dev-is-dead-long-live-the-dev/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-the-dev-is-dead-long-live-the-dev-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-the-dev-is-dead-long-live-the-dev-light.svg"><img src="./images/name-the-dev-is-dead-long-live-the-dev-dark.svg" alt="The Dev Is Dead, Long Live the Dev"></picture></a>
 
 I build agentic AI platforms for a living and tinker with them for fun. The green grass is real — but getting there required breaking a lot of things first. Here is what went wrong, what we are losing, and why I think you can put the doom articles down.
-
-<br clear="both">
-
-<br>
-
-<a href="https://mortenolsen.pro/posts/llm-maintainable-code/"><img src="./images/post-llm-maintainable-code.webp" alt="Why AI Hates Your Abstractions" width="320" align="left"></a>
-
-<a href="https://mortenolsen.pro/posts/llm-maintainable-code/"><picture><source media="(prefers-color-scheme: dark)" srcset="./images/name-llm-maintainable-code-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./images/name-llm-maintainable-code-light.svg"><img src="./images/name-llm-maintainable-code-dark.svg" alt="Why AI Hates Your Abstractions"></picture></a>
-
-I refactored my personal AI to be "more maintainable" for humans, only to find out I might have broken its brain. Is what we call good code actually just noise to an LLM?
 
 <br clear="both">
 
